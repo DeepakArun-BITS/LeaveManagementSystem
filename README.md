@@ -19,34 +19,33 @@ Leave Management System is a web application for managing employee leaves. This 
 
 ## Application Overview
 ### Login Page (Initial Opening Page)
-![Login Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Leave%20Management%20System.png)
+![Login Page](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/HomePage_CheckPassword.PNG)
 
 ### Home Page (Options provided for data variation)
-![Home Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Home.png)
+![Home Page](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/HomePage_CheckPassword.PNG)
 
-![Home Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Home(1).png)
+![Home Page](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/ChangePassword.PNG)
 
-![Home Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Home(2).png)
+![Home Page](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/HomePage_CheckPassword.PNG)
 
-![Home Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Home(3).png)
+![Home Page](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/HomePage_TeamLead.PNG)
 
 ### Manage Users
-![Manage Users](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Manage%20Users.png)
+![Manage Users](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/ManageUsers.PNG)
 
 ### Edit User
-![Edit User](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Edit%20User.png)
+![Edit User](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/EditUser_Manager.PNG)
 
 ### Manage Leaves
-![Manage Leaves](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Manage%20Leaves.png)
+![Manage Leaves](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/ManageLeaves_Manager.PNG)
 
 ### Apply Leave
-![Apply Leave](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Apply%20Leave.png)
+![Apply Leave](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/ApplyLeave_Fields.PNG)
 
 ### My Leaves
-![My Leaves](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20My%20Leaves.png)
-![My Leaves](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20My%20Leaves(1).png)
+![My Leaves](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/MyLeaves_Manager.PNG)
+![My Leaves](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/MyLeaves_TL.PNG)
 
 ### Change Password
-![Change Password](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Change%20Password.png)
+![Change Password](https://github.com/DeepakArun-BITS/LeaveManagementSystem/blob/master/resources/screenshots/ChangePassword.PNG)
 
-![Change Password](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Change%20Password(1).png)

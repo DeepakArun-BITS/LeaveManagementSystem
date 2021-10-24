@@ -13,7 +13,7 @@ Leave Management System is a web application for managing employee leaves. This 
 ### How To Run
 * As it's a Maven Project, you can call `mvn install` in terminal(in project directory) to get a war file.(You can find it in **target** folder)
 * You need to have Postgres database to import tables from app-DB-Script.sql (`psql -U postgres lms < app-DB-Script.sql`).
-* Default username is `manager@email.com` and password is `123456`.
+* Default username is `deepakarun_s@email.com` and password is `123456`.
 * You can find the file **app-DB-Script.sql**  in **resources** folder.
 * Deploy the war file to the tomcat server and visit localhost:8080/leave-management-system
 
